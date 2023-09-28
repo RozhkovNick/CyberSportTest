@@ -1,0 +1,5 @@
+*.class
+DnsProject/.idea/
+.resources/
+.target/
+.allure/
