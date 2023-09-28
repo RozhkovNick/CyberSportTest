@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="10">
+    <test verbose="2" preserve-order="true" name="C:/Users/USER/Desktop/DnsProject">
+        <classes>
+            <class name="cybersport.AuthorizationTest"/>
+            <class name="cybersport.PageHeaderTest"/>
+            <class name="cybersport.PageHeaderTwoLineTest"/>
+            <class name="cybersport.FooterTest"/>
+            <class name="cybersport.MatchesTest"/>
+        </classes>
+    </test>
+</suite>
